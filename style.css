@@ -1,0 +1,50 @@
+h3 {
+    margin-top: 8px;
+}
+
+.row {
+    justify-content: center;
+}
+
+.profile_pic {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+  
+  .sidebar {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  .sidebar ul {
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  .sidebar .nav-link {
+    color: #333;
+  }
+  
+  .content {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  .parking-lot {
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+  }
+  
+  .table {
+    margin-top: 20px;
+  }
+
+  .print-img {
+    width: 2rem;
+    height: 2rem;
+  }
+  
